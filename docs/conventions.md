@@ -3,7 +3,7 @@
 ## 命名规范
 
 - 周目录：`week-01`、`week-02`、`week-03`。
-- 文件名：小写英文 + 连字符，例如 `claude-code-summary.md`。
+- 文件名：小写英文 + 连字符，例如 `summary.md`。
 - 不再使用：`week1.md`、`WEEK1_EXECUTION_NOTES.md` 这类大小写混合、周次不可自然排序的命名。
 
 ## 推荐 Front Matter
@@ -39,7 +39,7 @@ status: draft
 3. 验收标准。
 4. 约束条件，例如不能提交密钥、必须保留现有接口兼容性。
 
-### claude-code-summary.md
+### summary.md
 
 建议包含：
 

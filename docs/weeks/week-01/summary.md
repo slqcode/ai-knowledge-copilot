@@ -1,12 +1,12 @@
 ---
-title: Week 01 Claude Code Summary
+title: Week 01 Summary
 week: 01
 type: execution-summary
 tool: Claude Code
 status: completed
 ---
 
-# Week 01 Claude Code 执行总结
+# Week 01 执行总结
 
 这份文档解释本次任务中我实际做了什么、为什么这么做，以及这些内容和前端开发之间的关系。你可以把它当作一份“零 Python 基础前端工程师入门 FastAPI”的项目笔记。
 
@@ -1020,7 +1020,7 @@ ai-knowledge-copilot/
 ├─ docker/Dockerfile
 ├─ docker-compose.yml
 ├─ README.md
-├─ docs/weeks/week-01/claude-code-summary.md
+├─ docs/weeks/week-01/summary.md
 └─ docs/weeks/week-01/prompt.md
 ```
 

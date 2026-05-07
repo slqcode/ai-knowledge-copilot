@@ -11,11 +11,11 @@ docs/
 └─ weeks/
    ├─ README.md
    ├─ week-01/
-   │  ├─ prompt.md                # 喂给 Claude Code 的原始任务/需求
-   │  └─ claude-code-summary.md   # Claude Code 执行过程总结
+   │  ├─ prompt.md                # 输入给 AI 编程工具的原始任务/需求
+   │  └─ summary.md               # 执行过程总结
    ├─ week-02/
    │  ├─ prompt.md
-   │  ├─ claude-code-summary.md
+   │  ├─ summary.md
    │  ├─ design.md                # 可选：方案、架构、接口设计
    │  └─ acceptance.md            # 可选：验收结果、测试记录
    └─ week-03/
@@ -27,7 +27,7 @@ docs/
 | 周次 | 文档 | 说明 |
 |---|---|---|
 | Week 01 | `weeks/week-01/prompt.md` | 第 1 周喂给 Claude Code 的 prompt，目标是搭建 FastAPI 基础服务。 |
-| Week 01 | `weeks/week-01/claude-code-summary.md` | Claude Code 对第 1 周执行过程、关键决策和验证结果的总结。 |
+| Week 01 | `weeks/week-01/summary.md` | 第 1 周执行过程、关键决策和验证结果总结。 |
 
 ## 推荐新增文档规则
 
@@ -35,7 +35,7 @@ docs/
 
 ```text
 docs/weeks/week-02/prompt.md
-docs/weeks/week-02/claude-code-summary.md
+docs/weeks/week-02/summary.md
 ```
 
 如果该周内容较复杂，再按需增加：
