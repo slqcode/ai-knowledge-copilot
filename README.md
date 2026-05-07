@@ -87,8 +87,10 @@ cp .env.example .env
 
 ## 文档
 
-- `docs/week1.md`：第 1 周实作指南。
-- `docs/WEEK1_EXECUTION_NOTES.md`：第 1 周执行过程说明。
+- `docs/README.md`：文档目录说明。
+- `docs/conventions.md`：文档命名与内容规范。
+- `docs/weeks/week-01/prompt.md`：第 1 周喂给 Claude Code 的 prompt。
+- `docs/weeks/week-01/claude-code-summary.md`：第 1 周 Claude Code 执行过程总结。
 
 ## 常见问题
 

@@ -1,6 +1,14 @@
-# 第1周实作指南
+---
+title: Week 01 Prompt
+week: 01
+type: prompt
+tool: Claude Code
+status: completed
+---
 
-## 执行摘要
+# Week 01 Prompt：FastAPI 基础服务
+
+## Prompt 背景与目标
 
 本周只追一个结果：把本地可运行的 **FastAPI 基础服务**搭起来，并完成两个同步接口与一个最小流式 SSE 接口；同时把虚拟环境、测试、日志、Docker 和 README 基础骨架一次性补齐。这样第 2 周你就能直接进入文件上传、Pydantic、异步与前后端联调，而不是反复返工环境。citeturn0search16turn0search1turn0search2
 

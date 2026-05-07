@@ -1,10 +1,18 @@
-# Week1 执行过程说明
+---
+title: Week 01 Claude Code Summary
+week: 01
+type: execution-summary
+tool: Claude Code
+status: completed
+---
+
+# Week 01 Claude Code 执行总结
 
 这份文档解释本次任务中我实际做了什么、为什么这么做，以及这些内容和前端开发之间的关系。你可以把它当作一份“零 Python 基础前端工程师入门 FastAPI”的项目笔记。
 
-## 1. 先读取 `week1.md`
+## 1. 先读取 `docs/weeks/week-01/prompt.md`
 
-我首先打开了项目根目录下的 `week1.md`，它是一份第 1 周实作指南。
+我首先打开了 `docs/weeks/week-01/prompt.md`，它是一份第 1 周实作指南。
 
 它要求完成的核心目标是：
 
@@ -22,7 +30,7 @@
 当时项目里只有：
 
 ```text
-week1.md
+docs/weeks/week-01/prompt.md
 ```
 
 也就是说，这不是一个已经初始化好的 Python 项目，而是一个空目录加一份执行指南。
@@ -37,7 +45,7 @@ fatal: not a git repository
 
 ## 3. 创建项目目录结构
 
-根据 `week1.md` 的要求，我创建了这些目录：
+根据 `docs/weeks/week-01/prompt.md` 的要求，我创建了这些目录：
 
 ```text
 app/
@@ -1012,8 +1020,8 @@ ai-knowledge-copilot/
 ├─ docker/Dockerfile
 ├─ docker-compose.yml
 ├─ README.md
-├─ WEEK1_EXECUTION_NOTES.md
-└─ week1.md
+├─ docs/weeks/week-01/claude-code-summary.md
+└─ docs/weeks/week-01/prompt.md
 ```
 
 ## 27. 你现在可以怎么运行
