@@ -1,0 +1,6 @@
+fastapi[standard]>=0.115,<0.116
+starlette>=0.40,<0.47
+pydantic-settings
+python-dotenv
+pytest
+httpx
